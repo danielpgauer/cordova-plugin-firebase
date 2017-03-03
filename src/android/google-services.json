@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "960666792250",
+    "firebase_url": "https://garupa-app-1484741715031.firebaseio.com",
+    "project_id": "garupa-app-1484741715031",
+    "storage_bucket": "garupa-app-1484741715031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960666792250:android:82173100942c39ee",
+        "android_client_info": {
+          "package_name": "co.garupa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960666792250-5f1iec2rt4c020q17mdqukkrhrk6v5uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYYbQ-L-O9S7mab8NjHx1qGZxOquqZ34"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
