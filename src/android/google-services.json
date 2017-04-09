@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "960666792250",
-    "firebase_url": "https://garupa-app-1484741715031.firebaseio.com",
-    "project_id": "garupa-app-1484741715031",
-    "storage_bucket": "garupa-app-1484741715031.appspot.com"
+    "project_number": "218013554637",
+    "firebase_url": "https://maps-asset-38755060.firebaseio.com",
+    "project_id": "maps-asset-38755060",
+    "storage_bucket": "maps-asset-38755060.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:960666792250:android:82173100942c39ee",
+        "mobilesdk_app_id": "1:218013554637:android:82173100942c39ee",
         "android_client_info": {
           "package_name": "co.garupa"
         }
       },
       "oauth_client": [
         {
-          "client_id": "960666792250-5f1iec2rt4c020q17mdqukkrhrk6v5uv.apps.googleusercontent.com",
+          "client_id": "218013554637-jvmhjsa2h5e0gk4jkiq82eigl9pirhu6.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCdYYbQ-L-O9S7mab8NjHx1qGZxOquqZ34"
+          "current_key": "AIzaSyD_VzeB2ZP9ZtAOo2kIofOu7ZjDdmq9l8E"
         }
       ],
       "services": {

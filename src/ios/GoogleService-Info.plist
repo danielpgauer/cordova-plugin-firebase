@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>960666792250-kmobb2rq4ij89evst69ci5thc2mjsork.apps.googleusercontent.com</string>
+	<string>218013554637-cnok4iqc0nihehtp9ogs57ji886bib7h.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.960666792250-kmobb2rq4ij89evst69ci5thc2mjsork</string>
+	<string>com.googleusercontent.apps.218013554637-cnok4iqc0nihehtp9ogs57ji886bib7h</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAmO0Gb80g96M0DI-uZVF3L7C_9BcfGxiU</string>
+	<string>AIzaSyBV9Y9FCblCAo8GQ19yXbiV_ouOjtk4smc</string>
 	<key>GCM_SENDER_ID</key>
-	<string>960666792250</string>
+	<string>218013554637</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>co.garupa</string>
 	<key>PROJECT_ID</key>
-	<string>garupa-app-1484741715031</string>
+	<string>maps-asset-38755060</string>
 	<key>STORAGE_BUCKET</key>
-	<string>garupa-app-1484741715031.appspot.com</string>
+	<string>maps-asset-38755060.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:960666792250:ios:82173100942c39ee</string>
+	<string>1:218013554637:ios:82173100942c39ee</string>
 	<key>DATABASE_URL</key>
-	<string>https://garupa-app-1484741715031.firebaseio.com</string>
+	<string>https://maps-asset-38755060.firebaseio.com</string>
 </dict>
 </plist>
