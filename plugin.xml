@@ -77,7 +77,7 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<resource-file src="src/ios/GoogleService-Info.plist" target="Resources/GoogleService-Info.plist" />
 		
 		<resource-file src="bell.mp3" target="Library/Sounds/bell.mp3" />
-		<resource-file src="novaGarupa.mp3" target="Library/Sounds/novaGarupa.mp3" />
+		<resource-file src="solicitacao.mp3" target="Library/Sounds/solicitacao.mp3" />
 
 		<header-file src="src/ios/AppDelegate+FirebasePlugin.h" />
 		<source-file src="src/ios/AppDelegate+FirebasePlugin.m" />
